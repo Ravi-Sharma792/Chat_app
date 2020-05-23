@@ -1,6 +1,6 @@
-# flutter_complete_guide
+# Chat_app
 
-A new Flutter project.
+A flutter chat app built with Firestore and Firebase Cloud(Udemy - Maximilian)
 
 ## Getting Started
 
