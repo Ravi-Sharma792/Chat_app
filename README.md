@@ -6,7 +6,7 @@ Check My App Here https://appetize.io/app/ut96tzr7421bjbbyrtt827hz68?device=nexu
 
 
 <img src = "ScreenShots/Auth_Screen.jpg"> <img src = "ScreenShots/Auth_Screen Signup.jpg"> 
-<img src = "ScreenShots/Chat_screen.jpg">
+<img src = "ScreenShots/Chat_screen.jpg"> <img src = "ScreenShots/Log_Out_Screen.jpg"> 
 
 ## Getting Started
 
