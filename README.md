@@ -2,6 +2,11 @@
 
 A flutter chat app built with Firestore and Firebase Cloud(Udemy - Maximilian)
 
+Check My App Here https://appetize.io/app/ut96tzr7421bjbbyrtt827hz68?device=nexus5&scale=75&orientation=portrait&osVersion=8.1
+
+<img src = "ScreenShots/Auth_Screen.jpg"> <img src = "ScreenShots/Auth_Screen Signup.jpg"> 
+<img src = "ScreenShots/Chat_screen.jpg">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
