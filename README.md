@@ -1,6 +1,6 @@
 # Chat_app
 
-A flutter chat app built with Firestore and Firebase Cloud(Udemy - Maximilian)
+A Basic flutter chat app built with Firestore and Firebase Cloud(Udemy - Maximilian)
 
 Check My App Here https://appetize.io/app/ut96tzr7421bjbbyrtt827hz68?device=nexus5&scale=75&orientation=portrait&osVersion=8.1
 
